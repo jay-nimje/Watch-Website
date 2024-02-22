@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "id": "1692165335959",
+      "fname": "jay",
+      "lname": "nimje",
+      "email": "nimjejay04@gamil.com",
+      "password": "12345",
+      "address": "ahemdabad",
+      "moblie": "78945612"
+    },
+    {
+      "id": "1693481711069",
+      "fname": "ayushi",
+      "lname": "thakkar",
+      "email": "ayushi@gmail.com",
+      "password": "123",
+      "address": "ahemdabad",
+      "moblie": "7894561233"
+    },
+    {
+      "id": "1693561199706",
+      "fname": "Khushi",
+      "lname": "Panchal",
+      "email": "khushi@4556gmail.com",
+      "password": "456",
+      "address": "Ahemdabad",
+      "moblie": "8545691252"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1692168184112",
+      "message": "Hello message one",
+      "fname": "jay",
+      "lname": "nimje",
+      "email": "nimjejay04@gamil.com",
+      "subject": ""
+    }
+  ],
+  "product": [
+    {
+      "id": "1694510240266",
+      "img_link": "https://staticimg.titan.co.in/Fastrack/Catalog/38077AM05_1.jpg?impolicy=pqmed&imwidth=640",
+      "pro_brand": "Apple",
+      "pro_type": "i watch",
+      "pro_des": "Best watch",
+      "pro_price": "12000",
+      "cat_name": "Men",
+      "pro_dis_price": "10000"
+    },
+    {
+      "id": "1694517046273",
+      "img_link": "https://staticimg.titan.co.in/Fastrack/Catalog/38077AM05_1.jpg?impolicy=pqmed&imwidth=640",
+      "pro_brand": "titan",
+      "pro_type": "demo",
+      "pro_des": "testing",
+      "pro_price": "12000",
+      "cat_name": "Men",
+      "pro_dis_price": "10000"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Titan Smart Watch",
+      "desc": "Men's Watch",
+      "image": " "
+    },
+    {
+      "id": 2,
+      "title": "Fastrack Sports Watch",
+      "desc": "Men's Watch",
+      "image": " "
+    },
+    {
+      "id": 3,
+      "title": "Fastrack Sports Watch",
+      "desc": "Men's Watch",
+      "image": " "
+    }
+  ],
+  "categories": [
+    {
+      "id": "1694424510368",
+      "brand": "fastreack",
+      "product": "demo"
+    },
+    {
+      "id": "1694428996192",
+      "brand": "Apple",
+      "product": "i watch"
+    },
+    {
+      "id": "1694512230746",
+      "brand": "titan",
+      "product": "Titan Silver Dial Chronograph Watch"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ]
+}
